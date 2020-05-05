@@ -11,7 +11,6 @@ public class xiaoliu {
 
         System.out.println("小刘的第一次提交");
 
-        System.out.println("小刘的第二次提交+ "+System.currentTimeMillis());
-        System.out.println("第三次");
+        System.out.println("小刘的第二次提交");
     }
 }
